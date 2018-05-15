@@ -46,9 +46,9 @@ Apache Flink官网：[http://flink.apache.org](http://flink.apache.org/index.htm
 
 志愿角色认领：
 
-- *翻译* [认领](https://github.com/flink-china/flink-web/wiki/2-.%E7%BF%BB%E8%AF%91%E6%B5%81%E7%A8%8B)：大家在认领任务时，请标注翻译完成时间
-- *审校* [点我认领](https://github.com/flink-china/flink-web/wiki/2-.%E7%BF%BB%E8%AF%91%E6%B5%81%E7%A8%8B)
-- *项目经理* [认领](https://github.com/Apache-Flink-Docs-ZH/Apache-Flink-Docs-ZH-translation/issues/1)
+- *翻译* [认领](https://github.com/flink-china/Flink-China-Translate-Team-/issues)：大家在认领任务时，请标注翻译完成时间
+- *审校* [点我认领](https://github.com/flink-china/Flink-China-Translate-Team-/issues)
+- *项目经理* [认领](https://github.com/flink-china/Flink-China-Translate-Team-/issues/1)
 
 ## 贡献者名单
 
@@ -87,8 +87,11 @@ Apache Flink官网：[http://flink.apache.org](http://flink.apache.org/index.htm
 *翻译*
 *审校*
  *项目经理*
+- [bazhen](https://github.com/tuahihe)
+ - [tuhaihe](https://github.com/tuahihe)
  - [tuhaihe](https://github.com/tuahihe)
  - [lviiii](https://github.com/lviiii)
+
 
 
 **项目贡献排名：点击[此处](https://github.com/Apache-Flink-Docs-ZH/Apache-Flink-Docs-ZH-translation/graphs/contributors)，可以看到各自贡献排名,加油~**
